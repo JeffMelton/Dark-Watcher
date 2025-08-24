@@ -1,0 +1,6 @@
+.zig-cache/
+zig-out/
+*.o
+Implementation-Guide.md
+Language-Comparison-Analysis.md
+Windows-Theme-Switcher-Effort-Estimates.md
