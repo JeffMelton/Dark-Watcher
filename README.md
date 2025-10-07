@@ -1,13 +1,6 @@
 # 🌓 Dark Watcher
 
-[![Project Status](https://img.shields.io/badge/Status-Design%20Phase-blue?style=flat-square)](#project-status)
-[![Zig Version](https://img.shields.io/badge/Zig-0.15.1-orange?style=flat-square)](https://ziglang.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2011%20x86-lightgrey?style=flat-square)](#platform-support)
-[![Architecture](https://img.shields.io/badge/Architecture-Cross--Platform%20Ready-green?style=flat-square)](#cross-platform-vision)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](#license)
-[![AI Assisted](https://img.shields.io/badge/Development-AI%20Assisted-purple?style=flat-square)](#ai-assisted-development)
-
-> **A learning-focused Zig implementation of a Windows 11 theme switching application, designed from the ground up for cross-platform expansion and AI-assisted collaborative development.**
+> **This was intended to be a learning-focused Zig implementation of a Windows 11 theme switching application. However, I've shifted focus to some other approaches, so this may not end up going anywhere.**
 
 ---
 
